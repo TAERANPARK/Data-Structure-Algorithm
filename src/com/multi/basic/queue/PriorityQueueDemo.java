@@ -24,7 +24,7 @@ public class PriorityQueueDemo {
 
         // 4. 가장 작은 값 제거 (poll)
         System.out.println("\n[가장 작은 값 제거]");
-        System.out.println("제거된 값 (poll): " + minHeap.poll());
+        System.out.println("제거된 값 (poll): " + minHeap.poll()); //10이 제거됨
         System.out.println("큐 상태 (제거 후): " + minHeap);
 
         // 5. 요소 제거 (remove)
