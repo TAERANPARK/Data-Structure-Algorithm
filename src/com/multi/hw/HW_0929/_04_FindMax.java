@@ -1,6 +1,5 @@
-package com.multi.hw;
+package com.multi.hw.HW_0929;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class _04_FindMax {

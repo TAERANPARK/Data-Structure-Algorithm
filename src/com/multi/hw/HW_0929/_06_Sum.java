@@ -1,4 +1,4 @@
-package com.multi.hw;
+package com.multi.hw.HW_0929;
 
 import java.util.Scanner;
 import java.util.Stack;
